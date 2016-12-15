@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>webpay</name>
+    <displayName><![CDATA[Pago Webpay Prestashop 1.7]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[M&eacute;todo de pago Webpay Transbank.]]></description>
+    <author><![CDATA[Cristian Rojas]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[¿Seguro que deseas desinstalar este módulo?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
